@@ -1,0 +1,4 @@
+/venv/
+/dataset/squad/
+/dataset/model/distilbert-custom/
+/_transformers/jupiter_/.ipynb_checkpoints/
